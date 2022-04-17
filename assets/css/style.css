@@ -1,0 +1,640 @@
+.nav {
+
+    background: rgb(36, 35, 35);
+    height: 45px;
+    display: flex;
+}
+
+body {
+    margin: 0;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.logo {
+
+    height: 17px;
+    margin-left: 180px;
+    padding-top: 13px;
+    opacity: .8;
+}
+
+.top_elements {
+    color: white;
+
+}
+
+.elements {
+    margin-right: px;
+    list-style: none;
+    font-size: 11.1px;
+    line-height: 2.4667;
+    letter-spacing: .01em;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    color: #f5f5f7;
+    opacity: .8;
+    display: flex
+}
+
+.margin {
+    margin-right: 45px;
+}
+
+.search {
+    padding-top: 5px;
+    height: 15px;
+    display: flex
+}
+
+.bagimg {
+    padding-left: 35px;
+    padding-top: 3px;
+    height: 17px;
+
+
+}
+
+.secondbar {
+    background: #F8F9FB;
+    height: 45px;
+
+}
+
+.para {
+    margin-left: 310px;
+    font-size: 13.5px;
+    padding-top: 15px;
+}
+
+.name {
+    height: 189px;
+    margin-top: 15px;
+    text-align: center;
+
+}
+
+.first {
+    padding-top: 61px;
+    font-size: 47px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.second {
+    font-size: 23px;
+    font-family: sans-serif;
+    padding-top: 4px;
+}
+
+.third {
+    color: #1A72DC;
+    display: flex;
+    margin-left: 555px;
+    margin-top: 6px;
+    font-size: 22px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+
+.fourth {
+    color: #1A72DC;
+    font-size: 22px;
+    margin-left: 150px;
+    margin-top: -35px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+
+.pic1 {
+    background: #fafbfc;
+    height: 373px;
+    cursor: pointer;
+}
+
+.iphone_1 {
+    height: 381px;
+}
+
+.sc {
+    background: rgb(251, 251, 250);
+    height: 220px;
+    margin-top: 23px;
+    text-align: center;
+}
+
+.sc_1 {
+    color: #060606;
+    font-size: 22px;
+    padding-top: 43px;
+    font-weight: bold;
+}
+
+.sc_2 {
+    font-size: 25px;
+    font-family: sans-serif;
+    padding-top: 4px;
+}
+
+.third_ {
+    color: #1A72DC;
+    display: flex;
+    margin-left: 555px;
+    margin-top: 6px;
+    font-size: 22px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+
+.fourth {
+    color: #1A72DC;
+    font-size: 22px;
+    margin-left: 150px;
+    margin-top: -35px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+
+.pic2 {
+    background: #fcfcfc;
+    height: 370px;
+    cursor: pointer;
+}
+
+.iphonesc {
+    height: 381x;
+    margin-left: -640px;
+    padding-bottom: 10px;
+}
+
+.pic_3 {
+    background: #2534b7;
+    height: 100%;
+    cursor: pointer;
+    width: 100%;
+}
+
+.ipad {
+    position: absolute;
+    width: 100%;
+
+}
+
+.ipadlogo {
+    position: relative;
+    padding: 185px;
+    padding-top: 240px;
+    height: 228px;
+
+}
+
+.ipad_heading {
+    color: white;
+    font-size: 26px;
+    position: relative;
+    margin-left: -71px;
+    display: flex;
+}
+
+.click1 {
+    color: #1A72DC;
+    display: flex;
+    margin-left: -20px;
+    margin-top: 6px;
+    font-size: 22px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+
+.click2 {
+    color: #1A72DC;
+    font-size: 20px;
+    margin-left: 150px;
+    margin-top: -33px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+
+.sec_4 {
+    width: 98%;
+    height: 568px;
+    margin-left: 12px;
+    display: flex;
+}
+
+.processor {
+    background: #000205;
+    width: 48%;
+    height: 582px;
+}
+
+.macstudio {
+    background: #fafafd;
+    width: 52%;
+    margin-left: 12.5px;
+}
+
+.wwdc {
+    width: 100%;
+}
+
+.wwdc22logo {
+    padding-left: 200px;
+    cursor: pointer;
+}
+
+.para1 {
+    color: #c6e1e6;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 21px;
+    line-height: 1.2381;
+    letter-spacing: 0.016em;
+
+}
+
+.click3 {
+    color: rgb(41, 151, 255);
+    display: flex;
+    margin-left: 250px;
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 0;
+    letter-spacing: 0.026em;
+    cursor: pointer;
+}
+
+.macstdo {
+    position: relative;
+    width: 100%;
+}
+
+.mactext1 {
+    font-size: 40px;
+    line-height: 1.1;
+    font-weight: 600;
+    margin-top: 115px;
+    margin-left: 215px;
+
+}
+
+.mactext2 {
+    margin-left: 240px;
+    margin-top: 7px;
+    font-size: 20px;
+}
+
+.mactxt3 {
+    color: #1A72DC;
+    display: flex;
+    margin-left: 230px;
+    margin-top: 3px;
+    font-size: 18px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+
+.mactxt4 {
+    color: #1A72DC;
+    font-size: 18px;
+    margin-left: 357px;
+    margin-top: -33px;
+    padding-top: 12px;
+    cursor: pointer;
+}
+
+.sec_5 {
+    margin-top: 28px;
+    width: 98%;
+    height: 568px;
+    margin-left: 12px;
+    display: flex;
+
+}
+
+.stdodisplay {
+    background: #fbfbfd;
+    width: 48%;
+    height: 582px;
+}
+
+.i13 {
+    background: #fbfbfd;
+    width: 52%;
+    margin-left: 12.5px;
+    height: 568px;
+}
+
+.stdodsply1 {
+
+    font-size: 40px;
+    line-height: 1.1;
+    font-weight: 600;
+    margin-top: 53px;
+    margin-left: 165px
+}
+
+.stdodsply2 {
+    margin-left: 220px;
+    margin-top: 7px;
+    font-size: 20px;
+}
+
+.stdodsply3 {
+    color: #1A72DC;
+    display: flex;
+    margin-left: 188px;
+    margin-top: 3px;
+    font-size: 18px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+
+.stdodsply4 {
+    color: #1A72DC;
+    font-size: 18px;
+    margin-left: 320px;
+    margin-top: -33px;
+    padding-top: 12px;
+    cursor: pointer;
+}
+
+.stdodsply_img {
+    padding-left: 55px;
+}
+
+.i13_1 {
+
+    font-size: 40px;
+    line-height: 1.1;
+    font-weight: 600;
+    margin-top: 53px;
+    margin-left: 225px
+}
+
+.i13_2 {
+    margin-left: 220px;
+    margin-top: 7px;
+    font-size: 20px;
+}
+
+.i13_3 {
+    color: #1A72DC;
+    display: flex;
+    margin-left: 233px;
+    margin-top: 3px;
+    font-size: 18px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+
+.i13_4 {
+    color: #1A72DC;
+    font-size: 18px;
+    margin-left: 368px;
+    margin-top: -33px;
+    padding-top: 12px;
+    cursor: pointer;
+}
+
+.i13_img {
+    width: 100%;
+}
+
+.sec_6 {
+    margin-top: 28px;
+    width: 98%;
+    height: 620px;
+    margin-left: 12px;
+    display: flex;
+
+}
+
+.watch {
+    background: #fbfbfd;
+    width: 48%;
+    height: 620px;
+}
+
+.advt {
+    background: #fbfbfd;
+    width: 52%;
+    margin-left: 12.5px;
+    height: 568px;
+}
+
+.w_logo {
+    margin-top: 53px;
+    margin-left: 230px
+}
+
+.w_1 {
+    margin-left: 190px;
+    margin-top: 7px;
+    font-size: 20px;
+}
+
+.w_3 {
+    color: #1A72DC;
+    display: flex;
+    margin-left: 210px;
+    margin-top: 3px;
+    font-size: 18px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+
+.w_4 {
+    color: #1A72DC;
+    font-size: 18px;
+    margin-left: 345px;
+    margin-top: -33px;
+    padding-top: 12px;
+    cursor: pointer;
+}
+
+.watch_img {
+    margin-left: 60px;
+    padding-top: 10px;
+
+}
+
+.horses {
+    width: 50.5%;
+    position: absolute;
+}
+
+.logo_light {
+    position: relative;
+    margin-top: 60px;
+    margin-left: 292px
+}
+
+.horses_2 {
+    position: relative;
+    margin-left: 153px;
+    margin-top: 305px;
+}
+
+.hrs_3 {
+    color: white;
+    position: relative;
+    font-size: 21.5px;
+    margin-left: 285px;
+    margin-top: 15px;
+
+}
+
+.h_4 {
+    color: #1A72DC;
+    margin-left: 293px;
+    margin-top: 15px;
+    font-size: 16px;
+    letter-spacing: 0.026em;
+    cursor: pointer;
+    position: relative;
+}
+
+.sec_7 {
+    background: #f5f5f7;
+    margin-top: 13px;
+    width: 100%;
+    height: 287px;
+    display: flex;
+}
+
+.footer {
+    background: #f5f5f7;
+    height:400px;
+}
+
+.footer_lists {
+    background: #f5f5f7;
+    width: 70%;
+    margin-left: 200px;
+    height: 395px;
+    font-size: 15px;
+
+}
+
+.footer_p1 {
+    background: #f5f5f7;
+    width: 70%;
+    margin-left: 200px;
+    height: 230px;
+}
+
+.content {
+    margin-top: 30px;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    opacity: .8;
+}
+
+.hr {
+    color: #000205;
+
+}
+
+.footer_l1 {
+    background: #f5f5f7;
+    width: 106px;
+    height: 392px;
+    display: flex;
+}
+
+.footer_l2 {
+    background: #f5f5f7;
+    width: 160px;
+    height: 392px;
+    margin-left: 85px;
+    display: flex;
+}
+
+.footer_l3 {
+    background: #f5f5f7;
+    width: 170px;
+    height: 392px;
+    margin-left: -5 px;
+    display: flex;
+}
+
+.footer_l4 {
+    background: #f5f5f7;
+    width: 160px;
+    height: 392px;
+    margin-left: 100px;
+
+}
+
+.footer_l5 {
+    background: #f5f5f7;
+    width: 160px;
+    height: 392px;
+    margin-left: 170px;
+    display: flex;
+    margin-top: -285px;
+}
+
+.list_1 {
+    width: 200px;
+    margin-left: -39px;
+    margin-top: 0px;
+}
+
+.l1 {
+    color: #000205;
+    list-style: none;
+    font-size: 12.1px;
+    line-height: 2.4667;
+    letter-spacing: .01em;
+    opacity: .8;
+
+
+}
+
+.footer_l2 {
+    width: 86px;
+}
+
+.l2_2 {
+    width: 200px;
+    margin-left: -39px
+}
+
+.list_l-l3 {
+    width: 104x;
+    margin: 0;
+    padding: 0;
+
+}
+
+.l13-l {
+    list-style: none;
+    font-size: 12.1px;
+    line-height: 2.4667;
+    letter-spacing: .01em;
+    opacity: .8;
+    width: 129px;
+    margin-top: 0px;
+}
+.last{
+    background: #f5f5f7;
+    width: 70%;
+    margin-left: 200px;
+    height: 75px;
+    margin-top:px;
+}
+.last_ft{
+    background: #f5f5f7;
+    margin-top: -30px;
+}
+.content1{
+    margin-top: 5px;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    opacity: .8;
+
+}
